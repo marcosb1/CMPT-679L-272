@@ -1,5 +1,6 @@
 Bye	1
 Goodbye	1
-Hadoop	2
+Hadoop	1
 Hello	2
 World	2
+hadoop	1
