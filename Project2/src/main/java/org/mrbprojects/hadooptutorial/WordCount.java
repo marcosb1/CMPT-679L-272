@@ -1,4 +1,4 @@
-package org.mrbprojects.hadooptutorial
+package org.mrbprojects.hadooptutorial;
 
 import java.io.IOException;
 import java.util.StringTokenizer;
