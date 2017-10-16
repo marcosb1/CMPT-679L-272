@@ -134,9 +134,7 @@ public class Part3 {
         map.put("c3", "p0");
 
         // forEach Example
-        map.forEach(1, (key, value) ->
-            System.out.printf("key: %s; value: %s; thread: %s\n"
-                key, value, Thread.currentThread().getName()));
+        map.forEach(1, (key, value) -> System.out.printf("key: %s; value: %s; thread: %s\n", key, value, Thread.currentThread().getName()));
 
         // search example
         /*String result = map.search(1, (key, value) -> {
